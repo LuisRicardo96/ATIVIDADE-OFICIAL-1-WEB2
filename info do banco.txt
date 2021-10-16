@@ -1,0 +1,3 @@
+Nome do banco de dados: talentos
+Nome da Tabela: profissionais
+Colunas utilizadas: ID, Nome, Idade, Profissão, Endereço, Entrada e Saida.
